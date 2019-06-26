@@ -1,14 +1,9 @@
 # Awesome Visual Grounding
 A curated list of research papers in grounding. Link to the code if available is also present.
 
-Visual grounding task refers to localizing an object given a query or a sentence. It is also sometimes called referring expression comprehension. Referring expression is basically uniquely identifying the object in question. I have not included papers which do only referring expression generation, however if they also do the comprehension (or only comprehension) they have been included.
+Visual grounding task refers to localizing an object with a bounding-box or pixel-level mask given a query or a sentence. It is also called referring expression comprehension. Referring expression is basically uniquely identifying the object in question. 
 
-This task is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa).
-
-To maintaing the quality of the repo, I have gone through all the listed papers at least once before adding them to ensure their relevance to grounding. However, I might have missed some paper(s) or added some irrelevant paper(s). Feel free to open an issue in that case. I will go through the paper and then add / remove it. 
-
-## Contributing
- Feel free to contact me [theshadow29.github.io](theshadow29.github.io) or open an issue or submit a pull request. 
+This task is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa). 
 
 ## Datasets
 ### Image Grounding Datasets
