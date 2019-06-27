@@ -3,7 +3,7 @@ A curated list of research papers in grounding. Link to the code if available is
 
 Visual grounding task refers to localizing an object with a bounding-box or pixel-level mask given a query or a sentence. It is also called referring expression comprehension. Referring expression is basically uniquely identifying the object in question. 
 
-This task is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa). 
+<img src="https://kgavrilyuk.github.io/img/actor_action.png">
 
 ## Datasets
 ### Image Grounding Datasets
